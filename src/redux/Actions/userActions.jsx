@@ -1,4 +1,4 @@
-import * as UserActionType from "./UserTypes";
+import * as UserActionType from "../TypeConstants/UserTypes";
 
 export const fetchUserRequest = () => ({
   type: UserActionType.FETCH_USERS_REQUEST,
