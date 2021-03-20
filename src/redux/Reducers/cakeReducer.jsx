@@ -1,4 +1,4 @@
-import * as ActionType from "./cakeTypes";
+import * as ActionType from "../TypeConstants/cakeTypes";
 
 const initialState = {
     numOfCakes: 10

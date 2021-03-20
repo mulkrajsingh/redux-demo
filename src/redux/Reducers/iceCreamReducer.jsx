@@ -1,4 +1,4 @@
-import * as ActionTypes from "./iceCreamTypes";
+import * as ActionTypes from "../TypeConstants/iceCreamTypes";
 
 const initialState = {
     numberOfIceCream: 5

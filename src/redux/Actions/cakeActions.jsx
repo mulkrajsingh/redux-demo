@@ -1,4 +1,4 @@
-import * as ActionType from "./cakeTypes";
+import * as ActionType from "../TypeConstants/cakeTypes";
 
 export const buyCake = (number = 1) => (
     {

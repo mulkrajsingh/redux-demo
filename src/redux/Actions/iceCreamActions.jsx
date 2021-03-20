@@ -1,4 +1,4 @@
-import * as ActionType from "./iceCreamTypes"
+import * as ActionType from "../TypeConstants/iceCreamTypes"
 
 export const buyIceCream = () => (
     {
